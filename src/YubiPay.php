@@ -1,6 +1,6 @@
 <?php
 
-namespace Yubi/Payment;
+namespace Yubi\Payment;
 
 class YubiPay extends Singleton
 {

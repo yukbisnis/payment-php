@@ -1,5 +1,5 @@
 {
-  "name": "yubi/payment",
+  "name": "YubiPayment",
   "description": "A package to consume Yukbisnis Payment Service",
   "type": "library",
   "require": {},

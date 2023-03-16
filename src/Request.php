@@ -1,6 +1,6 @@
 <?php
 
-namespace Yubi/Payment;
+namespace Yubi\Payment;
 
 use Exception;
 use GuzzleHttp\Client;
