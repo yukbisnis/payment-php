@@ -1,0 +1,21 @@
+{
+  "name": "yubi/payment",
+  "description": "A package to consume Yukbisnis Payment Service",
+  "type": "library",
+  "require": {},
+  "homepage": "https://github.com/yukbisnis/payment-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hasan Prayoga",
+      "email": "hasandotprayoga@gmail.com",
+      "homepage": "https://yubi.id/z",
+      "role": "Owner"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yubi\\Payment\\": "src/"
+    }
+  }
+}
